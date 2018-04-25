@@ -9,3 +9,4 @@ This sample has been built with the following versions:
 - Cassandra 2.1.13
 
 For a detailed, step by step guide on setting up and running this sample see the tutorial: https://support.instaclustr.com/hc/en-us/articles/213663858
+:) :) :)
